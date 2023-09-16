@@ -1,0 +1,45 @@
+name: Abhimanyu
+age: 25
+address: Bhopal
+email: anandabhimanyu029@gamil.com
+Mobile: 8319267454
+
+# OBJECTS
+server:
+  name: "learn_yaml"
+  capacity: 500GB
+  port: 8080
+
+#LIST
+DevOps_Tools:
+  - plan: gira
+  - codebase: github,gitlab
+  - build: Jenkins, Travis CI, CircleCI, or GitLab CI/CD
+  - test: Selenium
+  - release: Ansible,Terraform
+  - deploy: Kubernetes, Docker
+  - operate: Elasticsearch
+
+
+
+#Multiline Comments:
+multiline_commnets: |
+  Hey user this is a 
+  multiline_comments 
+  by which we can comments 
+  more then one line of code.
+
+#LISTS of Object.
+programming_language:
+- scripting_lang:
+  Python: Django, Flask, Pyramid, FastAPI
+  JavaScript: React, Angular, Node.js
+  Ruby: Ruby on Rails (RoR), Sinatra
+  PHP: Laravel,CodeIgniter
+- non_scripting_lang:
+  C++:  Qt, Boost, Poco
+  Java: Spring , Hibernate
+  Go (Golang):  Gin, Echo
+ 
+
+
